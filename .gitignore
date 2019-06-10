@@ -106,5 +106,6 @@ venv.bak/
 # else
 *.txt
 *.log
+*.sh
 *instabot
 *.checkpoint
